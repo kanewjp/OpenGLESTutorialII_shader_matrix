@@ -1,0 +1,5 @@
+CHANGED,D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\se\jayway\opengl\tutorial\Circle$override.class
+CHANGED,D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\se\jayway\opengl\tutorial\OpenGLRenderer$override.class
+CHANGED,D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\se\jayway\opengl\tutorial\MyGLSurfaceView$override.class
+CHANGED,D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\se\jayway\opengl\tutorial\ColoredCircle$override.class
+CHANGED,D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

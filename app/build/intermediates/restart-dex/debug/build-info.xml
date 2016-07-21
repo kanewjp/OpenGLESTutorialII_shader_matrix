@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxxhdpi"
+    format="7"
+    timestamp="174578439995342"
+    token="5197526502012108520" >
+
+    <task
+        name="javac"
+        duration="438" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="50" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+
+    <build timestamp="169700501399317" >
+        <artifact
+            location="D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="174578439995342" >
+        <artifact
+            location="D:\opengl\android\OpenGLESTutorialII_shader_matrix\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
